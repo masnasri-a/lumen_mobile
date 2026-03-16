@@ -1,0 +1,23 @@
+{
+  "name": "Lumen",
+  "identifier": "com.nuratech.lumen.source",
+  "subtitle": "Your finances, beautifully understood.",
+  "description": "Source resmi app Lumen oleh PT Nuratech Digital Nusantara.",
+  "iconURL": "https://raw.githubusercontent.com/nuratech/lumen_mobile/main/assets/icon.png",
+  "website": "https://github.com/nuratech/lumen_mobile",
+  "tintColor": "C5944A",
+  "apps": [
+    {
+      "name": "Lumen",
+      "bundleIdentifier": "com.nuratech.lumen",
+      "developerName": "PT Nuratech Digital Nusantara",
+      "subtitle": "Your finances, beautifully understood.",
+      "localizedDescription": "Lumen adalah aplikasi pencatatan keuangan multi-konteks untuk personal, pasangan, dan tim bisnis.",
+      "iconURL": "https://raw.githubusercontent.com/nuratech/lumen_mobile/main/assets/icon.png",
+      "tintColor": "C5944A",
+      "category": "finance",
+      "screenshots": [],
+      "versions": []
+    }
+  ]
+}
