@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98109234558",
+    "project_id": "lumen-1241f",
+    "storage_bucket": "lumen-1241f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98109234558:android:ae4be1ab84155dec57a72f",
+        "android_client_info": {
+          "package_name": "com.nuratech.lumen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Esu0a-1OQ1iQGDD-YNWsXvv40-YU9qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
